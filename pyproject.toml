@@ -89,7 +89,6 @@ build-backend = "hatchling.build"
 source = "uv-dynamic-versioning"
 
 [tool.uv]
-required-version = ">=0.8"
 default-groups = ["dev", "test"]
 override-dependencies = [
     "numpy>=2.2",  # Required because 'whisperx' hard-codes 'numpy<2.1'
