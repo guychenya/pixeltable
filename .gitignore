@@ -18,3 +18,4 @@ tests/target
 **/.DS_Store
 docs/mintlify/notebooks/
 docs/mintlify/changelog/
+uv.lock
